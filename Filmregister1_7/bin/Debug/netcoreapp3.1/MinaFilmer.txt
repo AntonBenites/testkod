@@ -1,0 +1,156 @@
+31
+Upp
+86
+Barnfilm
+2
+2011
+Kill Bill
+90
+Action
+5
+2006
+Titanic
+200
+Drama
+3
+1999
+Justice League
+145
+Äventyr
+2
+2015
+Titanic
+200
+Drama
+4
+1998
+Askungen
+85
+Barnfilm
+2
+1965
+Avengers			
+140
+Äventyr		
+4
+2009
+Nyckeln till frihet		
+120
+Drama		
+5
+1985
+X-men				
+90
+Action		
+3,5
+2004
+The notebook			
+95
+Drama		
+4,5
+2004
+Vaiana				
+85
+Barntillåten	
+3
+2012
+Transformers			
+140
+Action		
+4
+2010
+Wonder Woman			
+140
+Äventyr		
+2
+2018
+Lejonkungen			
+90
+Barntillåten	
+5
+1973
+Baksmällan			
+90
+Komedi		
+2
+2011
+The conjuring			
+90
+Skräck		
+4
+2013
+Incidious 2			
+90
+Skräck		
+3
+2014
+Split				
+90
+Thriller	
+3
+2016
+Sagan om ringen			
+150
+Äventyr		
+5
+2000
+Fast and the Furious 7		
+100
+Action		
+3
+2017
+En oväntad vänskap		
+100
+Drama		
+5
+2012
+Den gröna milen			
+105
+Drama		
+5
+1998
+Basic instinct 			
+90
+Thriller	
+1
+1989
+En officer och en gentleman	
+90
+Klassiker	
+1
+1985
+Scarface			
+180
+Klassiker	
+3
+1987
+Grease				
+100
+Musikal		
+3
+1986
+Fantomen på opera		
+90
+Musikal		
+1
+2001
+Morran & Tobias			
+95
+Svenskt		
+2
+2010
+E.T				
+100
+Sci-fi		
+4
+1988
+Alien				
+110
+Sci-fi		
+4
+1982
+Star Wars			
+120
+Sci-fi		
+4
+1977
